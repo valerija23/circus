@@ -3,9 +3,9 @@
 <img width="749" alt="Screenshot 2024-01-23 at 14 46 02" src="https://github.com/19th/circus/assets/637672/9717d713-6b1c-4203-8831-482c8f3621f6">
 
 **Specifikācija**
-- 1pt Spelētāji sāk no lauciņa nr. 1, vispār 100 lauciņu. Vinē tas kurš pirmais sasniedz pēdējo lauciņu
+- 1pt Spelētāji sāk no lauciņa nr. 1, vispār 100 lauciņu. Ir divi spēlētāji. Vinē tas kurš pirmais sasniedz pēdējo lauciņu
 - 1pt Maksimāli - 25 raundi, ja beidzas raundi - neizšķirts
-- 1pt Viens pēc otra met kauliņu un iet uz priekšu
+- 1pt Viens pēc otra met kauliņu (ar nejauša ciparu ģenerātora palidzību) un iet uz priekšu
 - 1pt Ja trāpa uz lauciņu ar kāpnem:
 zilas kāpnes ved uz leju
 18 -> 7, 67 -> 46 , 80 -> 69, 74 -> 63
